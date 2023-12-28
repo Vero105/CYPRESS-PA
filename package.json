@@ -1,0 +1,26 @@
+{
+  "name": "cypress-pa",
+  "version": "1.0.0",
+  "description": "Cypress Test PA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vero105/Katalon.git"
+  },
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "author": "Veronica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vero105/Katalon/issues"
+  },
+  "homepage": "https://github.com/Vero105/Katalon#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
